@@ -1,4 +1,4 @@
-# DDEX GOLANG Parser
+# DDEX Golang Parser
 
 DDEX Golang Parser is GOLang Parser for DDEX XML which can be used to parse the Content Provider XML's
 
